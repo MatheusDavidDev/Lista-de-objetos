@@ -1,0 +1,13 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\Lista\bin\Debug\netcoreapp3.1\Lista.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Lista\bin\Debug\netcoreapp3.1\Lista.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Lista\bin\Debug\netcoreapp3.1\Lista.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Lista\bin\Debug\netcoreapp3.1\Lista.runtimeconfig.dev.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Lista\bin\Debug\netcoreapp3.1\Lista.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Lista\bin\Debug\netcoreapp3.1\Lista.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Lista\obj\Debug\netcoreapp3.1\Lista.csprojAssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Lista\obj\Debug\netcoreapp3.1\Lista.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Lista\obj\Debug\netcoreapp3.1\Lista.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Lista\obj\Debug\netcoreapp3.1\Lista.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Lista\obj\Debug\netcoreapp3.1\Lista.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Lista\obj\Debug\netcoreapp3.1\Lista.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Lista\obj\Debug\netcoreapp3.1\Lista.genruntimeconfig.cache
